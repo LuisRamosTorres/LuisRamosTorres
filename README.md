@@ -1,10 +1,10 @@
-# <p align="center">Hola, soy Luis Martín Ramos Torres 👋</p>
+# <p align="center">Hi, I'm Luis 👋</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1B2&center=true&vCenter=true&width=500&lines=%3E+Economista;Analista+de+Riesgos+Junior;Especialista+en+Riesgo+Financiero" alt="Typing SVG" />
 </p>
 
-### *Analista de Riesgos Junior | Economista | Especialista en Riesgo Financiero y Modelado de Datos*
+### *Analista Junior Analyst | Economist | Specialist in Financial Risk and Data Modeling*
 
 📍 Lima, Perú  
 📧 [luis.m.ramos.rt@gmail.com](mailto:luis.m.ramos.rt@gmail.com)
@@ -18,22 +18,22 @@
 
 ## 👨‍💼 Professional Experience
 
-### *Analista de Riesgos Junior* | Liquidez Capital Perú S.A.C.
+### *Junior Risk Analyst* | Liquidez Capital Perú S.A.C.
 Septiembre 2023 – Diciembre 2025
 * *Evaluación de Riesgos* : Elaboración de informes de crédito detallando riesgos, mitigantes y diagnósticos sectoriales.
 * *Comité de Riesgos*: Presentación mensual de dashboards ejecutivos con KPIs sobre aprobaciones, rechazos y tendencias históricas.
 * *Análisis Financiero*: Metodización y análisis profundo de estados financieros para la aprobación de financiamientos.
 * *Verificación de Campo*: Realización de visitas presenciales a empresas para levantamiento de información cualitativa y verificación de operaciones.
 
-
 ---
 
 ## 🏆 Key Projects
 
 * *Econometrics and data modeling*: Cross-sectional, time series and panel.
-* *Comité de Riesgos*: Presentación mensual de dashboards ejecutivos con KPIs sobre aprobaciones, rechazos y tendencias históricas.
+* *Financial analysis*: Analysis of the Balance Sheet, income statements, gas flow and main financial ratios.
+* *Risk Committee*: Monthly presentation of executive dashboards with KPIs on approvals, rejections and historical trends.
 * *Credit Card Admission Model*: Scoring model (LightGBM) for the credit card product.
-* **: Realización de visitas presenciales a empresas para levantamiento de información cualitativa y verificación de operaciones.
+* *Realización de visitas presenciales a empresas para levantamiento de información cualitativa y verificación de operaciones.
 
 
 ## 📊 Fuentes y Herramientas Financieras
