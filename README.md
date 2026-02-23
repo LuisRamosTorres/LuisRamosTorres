@@ -20,7 +20,7 @@
 
 ### *Analista de Riesgos Junior* | Liquidez Capital Perú S.A.C.
 Septiembre 2023 – Diciembre 2025
-* *Evaluación de Riesgos*: Elaboración de informes de crédito detallando riesgos, mitigantes y diagnósticos sectoriales.
+* *Evaluación de Riesgos* : Elaboración de informes de crédito detallando riesgos, mitigantes y diagnósticos sectoriales.
 * *Comité de Riesgos*: Presentación mensual de dashboards ejecutivos con KPIs sobre aprobaciones, rechazos y tendencias históricas.
 * *Análisis Financiero*: Metodización y análisis profundo de estados financieros para la aprobación de financiamientos.
 * *Verificación de Campo*: Realización de visitas presenciales a empresas para levantamiento de información cualitativa y verificación de operaciones.
