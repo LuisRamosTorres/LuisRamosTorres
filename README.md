@@ -1,4 +1,4 @@
-# <p align="center">Hola soy Enzo 👋</p>
+# <p align="center">Hola soy Luis 👋</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1B2&center=true&vCenter=true&width=435&lines=%3E+Welcome;Analista+de+Riesgo+Financiero;Economista" alt="Typing SVG" />
@@ -45,7 +45,7 @@ Combino teoría económica, modelos cuantitativos y herramientas de análisis de
 ---
 
 ## 🎓 Educación y Especialización
-* *Licenciatura en Economía* – Universidad Nacional Agraria La Molina (UNALM).
+* *Licenciatura en Economía* – Universidad Nacional Agraria La Molina (UNAC).
 * *Especialización en Riesgo Financiero* – Pontificia Universidad Católica del Perú (PUCP).
 * *Herramientas de Trabajo*:
     ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
