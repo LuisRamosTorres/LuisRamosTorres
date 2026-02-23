@@ -1,7 +1,10 @@
 # <p align="center">Hi, I'm Luis 👋</p>
 
+
+&background=000000
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1B2&center=true&vCenter=true&width=500&lines=%3E+Economista;Analista+de+Riesgos+Junior;Especialista+en+Riesgo+Financiero" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1B2&background=000000&center=true&vCenter=true&width=600&lines=%3E+Economist;%3E+Junior+Risk+Analyst;%3E+Financial+Risk+Specialist" alt="Typing SVG" />
 </p>
 
 ### *Analista Junior Analyst | Economist | Specialist in Financial Risk and Data Modeling*
