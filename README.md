@@ -20,11 +20,10 @@
 
 ### *Junior Risk Analyst* | Liquidez Capital Perú S.A.C.
 Septiembre 2023 – Diciembre 2025
-* *Evaluación de Riesgos* : Elaboración de informes de crédito detallando riesgos, mitigantes y diagnósticos sectoriales.
-* *Comité de Riesgos*: Presentación mensual de dashboards ejecutivos con KPIs sobre aprobaciones, rechazos y tendencias históricas.
-* *Análisis Financiero*: Metodización y análisis profundo de estados financieros para la aprobación de financiamientos.
-* *Verificación de Campo*: Realización de visitas presenciales a empresas para levantamiento de información cualitativa y verificación de operaciones.
-
+* *Risk Assessment*: Preparation of credit reports detailing risks, mitigation strategies, and sector-specific analyses.
+* *Risk Committee*: Monthly presentation of executive dashboards with KPIs on approvals, rejections, and historical trends.
+* *Financial Analysis*: Methodological and in-depth analysis of financial statements for loan approval.
+* *Field Verification*: On-site visits to companies to gather qualitative information and verify operations.
 ---
 
 ## 🏆 Key Projects
@@ -37,7 +36,7 @@ Septiembre 2023 – Diciembre 2025
 
 
 ## 📊 Fuentes y Herramientas Financieras
-* *Bases de Datos*: BCRP, SBS, SMV, BVL, INEI, Investing.
+* *Databases*: BCRP, SBS, SMV, BVL, INEI, Investing...
 
 ---
 
