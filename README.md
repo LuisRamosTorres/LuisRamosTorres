@@ -8,13 +8,13 @@
 
 📍 Lima, Perú  
 📧 [luis.m.ramos.rt@gmail.com](mailto:luis.m.ramos.rt@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/luis-m-ramos-torres)
+🔗 [LinkedIn](https://www.linkedin.com/in/luis-martin-ramos-torres-b025a4200/)
 
 ---
 
 ## 🎓 Education and Specialization
-* *Bachelor's Degree in Economics – National University of Callao.
-* *Specialization in Financial Risk* – Pontifical Catholic University of Peru (PUCP).
+* Bachelor's Degree in Economics – National University of Callao.
+* Specialization in Financial Risk – Pontifical Catholic University of Peru (PUCP).
 
 ---
 
