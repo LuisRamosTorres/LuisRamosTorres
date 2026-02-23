@@ -30,9 +30,9 @@ Septiembre 2023 – Diciembre 2025
 
 ---
 
-## 🛠️ Pila Tecnológica
+## 🛠️ Tech Stack
 
-### *Análisis Financiero y Programación*
+### *Programming Languages & Tools*
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-Studio-276DC3?style=for-the-badge&logo=r&logoColor=white)
