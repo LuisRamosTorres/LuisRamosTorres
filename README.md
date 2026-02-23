@@ -16,6 +16,8 @@
 * *Bachelor's Degree in Economics – National University of Callao.
 * *Specialization in Financial Risk* – Pontifical Catholic University of Peru (PUCP).
 
+---
+
 ## 👨‍💼 Professional Experience
 
 ### *Junior Risk Analyst* | Liquidez Capital Perú S.A.C.
@@ -34,6 +36,7 @@ Septiembre 2023 – Diciembre 2025
 * *Credit Card Admission Model*: Scoring model (LightGBM) for the credit card product.
 * *Realización de visitas presenciales a empresas para levantamiento de información cualitativa y verificación de operaciones.
 
+---
 
 ## 📊 Fuentes y Herramientas Financieras
 * *Databases*: BCRP, SBS, SMV, BVL, INEI, Investing...
